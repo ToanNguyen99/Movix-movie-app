@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable no-unsafe-optional-chaining */
 import { useEffect, useState } from "react";
 import "./style.scss";
