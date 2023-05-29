@@ -7,7 +7,7 @@ import dayjs from 'dayjs';
 import PosterFallBack from '../../assets/img/no-poster.png'
 import CircleRating from '../CircleRating'
 import Genres from '../Genres'
-import Img from '../lazyLoadImage/img';
+import Img from '../LazyLoadImage/Img';
 import './style.scss'
 
 const MovieCard = ({ data, fromSearch, mediaType}) => {

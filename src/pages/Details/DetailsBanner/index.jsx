@@ -5,7 +5,7 @@ import { useSelector } from "react-redux";
 
 import ContentWrapper from "../../../components/ContentWrapper";
 import useFetch from "../../../hooks/useFetch";
-import Img from "../../../components/lazyLoadImage/Img";
+import Img from "../../../components/LazyLoadImage/Img";
 import PosterFallBack from "../../../assets/img/no-poster.png";
 import "./style.scss";
 import dayjs from "dayjs";
